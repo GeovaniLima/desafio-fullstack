@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "desafio-fullstack",
+    "slug": "desafio-fullstack",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
